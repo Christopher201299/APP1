@@ -8,6 +8,7 @@ import { GaleriaComponent } from './componentes/pages/galeria/galeria.component'
 import { DatosComponent } from './componentes/pages/datos/datos.component';
 import { InicioComponent } from './componentes/pages/inicio/inicio.component';
 import { MapaComponent } from './componentes/pages/mapa/mapa.component';
+import { FooterComponent } from './componentes/footer/footer.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { MapaComponent } from './componentes/pages/mapa/mapa.component';
     GaleriaComponent,
     DatosComponent,
     InicioComponent,
-    MapaComponent
+    MapaComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
