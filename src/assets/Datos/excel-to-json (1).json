@@ -1,0 +1,64 @@
+{
+  "tienda": [
+    {
+      "num": 1,
+      "Name": "Kota El Dorado",
+      "latitud": -101.0038922,
+      "longuitud": 22.1570052
+    },
+    {
+      "num": 2,
+      "Name": "Universo Mascotas",
+      "latitud": -101.0081182,
+      "longuitud": 22.138603
+    },
+    {
+      "num": 3,
+      "Name": "La mascota feliz",
+      "latitud": -100.9505005,
+      "longuitud": 22.1539987
+    },
+    {
+      "num": 4,
+      "Name": "Pet Shop Aviaci??n",
+      "latitud": -100.9953029,
+      "longuitud": 22.1728798
+    },
+    {
+      "num": 5,
+      "Name": "Chatos Mascotas",
+      "latitud": -100.9750147,
+      "longuitud": 22.1473515
+    },
+    {
+      "num": 6,
+      "Name": "Petco Plaza San Luis Potosi (Express)",
+      "latitud": -101.0307911,
+      "longuitud": 22.1266927
+    },
+    {
+      "num": 7,
+      "Name": "Petco San Luis Potos?¡",
+      "latitud": -101.0124104,
+      "longuitud": 22.1523998
+    },
+    {
+      "num": 8,
+      "Name": "La Fauna",
+      "latitud": -100.9488836,
+      "longuitud": 22.1427855
+    },
+    {
+      "num": 9,
+      "Name": "Love For Pet",
+      "latitud": -100.8711813,
+      "longuitud": 22.0911612
+    },
+    {
+      "num": 10,
+      "Name": "Animalijos",
+      "latitud": -100.9619199,
+      "longuitud": 22.1498288
+    }
+  ]
+}

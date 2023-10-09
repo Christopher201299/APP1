@@ -9,6 +9,7 @@ import { DatosComponent } from './componentes/pages/datos/datos.component';
 import { InicioComponent } from './componentes/pages/inicio/inicio.component';
 import { MapaComponent } from './componentes/pages/mapa/mapa.component';
 import { FooterComponent } from './componentes/footer/footer.component';
+import { NavbarComponent } from './component/navbar/navbar.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FooterComponent } from './componentes/footer/footer.component';
     DatosComponent,
     InicioComponent,
     MapaComponent,
-    FooterComponent
+    FooterComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
